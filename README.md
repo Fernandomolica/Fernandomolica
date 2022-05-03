@@ -1,5 +1,6 @@
-### Hey you! Fernando Molica Jr here.👋🏻
-<divstyle="display: flex">
+## Hey you! Fernando Molica Jr here.👋🏻
+
+<div style="display: flex">
 	
  <div>
   <a href="https://github.com/Fernandomolica">
